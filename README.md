@@ -13,9 +13,6 @@ This project is a **production-ready AI chat app** built with Docker Model Runne
 5. Fully containerized with Docker Compose  🐋
 
 
-## 📸 Screenshot
-
-<img width="600" alt="screenshot of Simple AI Assistant Chat App" src="" />
 
 ## ⚡️ Quick Start
 
